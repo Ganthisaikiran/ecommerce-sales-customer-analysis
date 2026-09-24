@@ -1,4 +1,3 @@
-# ecommerce-sales-customer-analysis# E-Commerce Sales & Customer Analysis using SQL
 
 ## 📌 Project Overview
 
