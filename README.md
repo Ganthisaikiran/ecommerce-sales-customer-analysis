@@ -1,4 +1,4 @@
-
+E-Commerce Sales & Customer Analysis using SQL
 ## 📌 Project Overview
 
 This project analyzes e-commerce sales and customer data using SQL to understand sales performance, customer behavior, product performance, and business trends.
